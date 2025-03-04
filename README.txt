@@ -1,5 +1,6 @@
 Pokémon Card Authenticator  
 ==========================  
+(!NOTE: Please download the Authenticator.exe from the release tab, and place it in the same folder/directory as the other files to ensure it functions properly.)
 
 Description:  
 This program is designed to help users compare Pokémon trading cards by analyzing the images of CARD BACKS using a machine learning model. It provides a classification of whether a card appears "Real" or "Fake" based on the model’s prediction.  
